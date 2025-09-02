@@ -1,5 +1,5 @@
 # Denitta-Johnson
-Programming Language used : Python
+Programming Language used : Python.
 In this repository each Problem is saved as separate file.
 Program-1.py : Small Calculator program
 Program-2.py : Program of the series , 1) input a = 1, then output : 1.  2) input a = 2, then output : 1, 3.  3) input a = 3, then output : 1, 3, 5.  4) input a = 4, then output : 1, 3, 5, 7
